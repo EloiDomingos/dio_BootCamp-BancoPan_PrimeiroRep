@@ -1,2 +1,3 @@
-# dio_BootCamp-BancoPan_PrimeiroRep
-Repositório DIO Bootcamp Banco Pan
+# Repositório com conteúdos do Bootcamp do Banco Pan na DIO
+
+## Slides e mais conteúdos abordados no curso
